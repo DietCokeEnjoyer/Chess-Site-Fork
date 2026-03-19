@@ -1,24 +1,30 @@
-# Nestjs specific
-/dist
-/node_modules
-/build
-/tmp
+# Dependencies
+node_modules/
+
+# Build output (GitHub Actions builds this, don't commit it)
+dist/
+
+# Vite cache
+.vite/
+
+# Local env files (never commit secrets like GitHub tokens)
+.env
+.env.local
+.env.*.local
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Editor config
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
 
 # Logs
-logs
-*.log
 npm-debug.log*
-pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-lerna-debug.log*
-
-# dotenv environment variable files
-.env
-.env.development
-.env.test
-.env.production
-
-# temp directory
-.temp
-.tmp
