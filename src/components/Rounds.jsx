@@ -2,7 +2,7 @@ import { useState } from 'react'
 import GameCard from './GameCard'
 import styles from './Rounds.module.css'
 
-export default function Rounds({ rounds, games, adjustments, onAdjustmentChange }) {
+export default function Rounds({ rounds, games }) {
   const [selectedRound, setSelectedRound] = useState(rounds[0]?.filename ?? null)
 
   if (rounds.length === 0) {
@@ -13,11 +13,9 @@ export default function Rounds({ rounds, games, adjustments, onAdjustmentChange 
     )
   }
 
-  // Keep selectedRound in sync when rounds load
   const activeFile = selectedRound ?? rounds[0]?.filename
   const roundGames = games.filter(g => g.roundFile === activeFile)
-
-  const inProgress = roundGames.some(g => (adjustments[g.id] ?? g.result) === 'pending')
+  const inProgress = roundGames.some(g => g.result === 'pending')
 
   return (
     <div className={styles.container}>
@@ -44,12 +42,7 @@ export default function Rounds({ rounds, games, adjustments, onAdjustmentChange 
       ) : (
         <div className={styles.grid}>
           {roundGames.map(game => (
-            <GameCard
-              key={game.id}
-              game={game}
-              adjustedResult={adjustments[game.id] ?? null}
-              onAdjustmentChange={onAdjustmentChange}
-            />
+            <GameCard key={game.id} game={game} />
           ))}
         </div>
       )}

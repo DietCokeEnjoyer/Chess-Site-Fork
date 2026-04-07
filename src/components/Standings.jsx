@@ -2,12 +2,12 @@ import { useMemo, useState } from 'react'
 import { computeStandings } from '../utils/pgnParser'
 import styles from './Standings.module.css'
 
-export default function Standings({ games, adjustments }) {
+export default function Standings({ games }) {
   const [query, setQuery] = useState('')
 
   const standings = useMemo(
-    () => computeStandings(games, adjustments),
-    [games, adjustments]
+    () => computeStandings(games),
+    [games]
   )
 
   const filtered = query.trim()

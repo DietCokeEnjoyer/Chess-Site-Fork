@@ -1,40 +1,13 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState } from 'react'
 import { useTournamentData } from './hooks/useTournamentData'
 import { config } from './applyTheme.js'
 import Standings from './components/Standings'
 import Rounds from './components/Rounds'
 import styles from './App.module.css'
 
-const STORAGE_KEY = 'chess-td-adjustments'
-
-function loadAdjustments() {
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) ?? '{}')
-  } catch {
-    return {}
-  }
-}
-
 export default function App() {
   const { rounds, games, eventName, loading, error } = useTournamentData()
   const [activeTab, setActiveTab] = useState('standings')
-  const [adjustments, setAdjustments] = useState(loadAdjustments)
-
-  // Persist adjustments to localStorage whenever they change
-  useEffect(() => {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(adjustments))
-  }, [adjustments])
-
-  const handleAdjustmentChange = useCallback((gameId, result) => {
-    setAdjustments(prev => {
-      if (result === null) {
-        const next = { ...prev }
-        delete next[gameId]
-        return next
-      }
-      return { ...prev, [gameId]: result }
-    })
-  }, [])
 
   return (
     <div className={styles.app}>
@@ -79,16 +52,11 @@ export default function App() {
         )}
 
         {!loading && !error && activeTab === 'standings' && (
-          <Standings games={games} adjustments={adjustments} />
+          <Standings games={games} />
         )}
 
         {!loading && !error && activeTab === 'rounds' && (
-          <Rounds
-            rounds={rounds}
-            games={games}
-            adjustments={adjustments}
-            onAdjustmentChange={handleAdjustmentChange}
-          />
+          <Rounds rounds={rounds} games={games} />
         )}
       </main>
 
@@ -105,7 +73,6 @@ export default function App() {
             )}
           </div>
         )}
-        <span>TD adjustments are saved locally in your browser.</span>
       </footer>
     </div>
   )
