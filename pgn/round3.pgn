@@ -112,7 +112,7 @@
 [WhiteUSCF "2730"]
 [BlackUSCF "2780"]
 
-[Termination "not-started"]
+[Termination "in-progress"]
 [WhiteUUID "fa248c28-2bbd-48c4-a76c-da7748c9d9b0"]
 [BlackUUID "82bd8f3f-3db0-4d78-9428-46a2713e47be"]
 
