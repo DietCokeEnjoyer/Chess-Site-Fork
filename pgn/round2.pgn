@@ -22,17 +22,17 @@
 [Round "2"]
 [White "Alireza Firouzja"]
 [Black "Maxime Vachier-Lagrave"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "10000009"]
 [BlackElo "10000010"]
 [Board "2"]
 [WhiteUSCF "2705"]
 [BlackUSCF "2700"]
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "20a02eb2-99f9-4ead-9e16-c3fb1ea25818"]
 [BlackUUID "ce9b35d2-ef88-4a22-a4c1-4ff068ca499b"]
 
-*
+0-1
 
 [Event "STL Tournament"]
 [Site "Local Chess Tournament"]
