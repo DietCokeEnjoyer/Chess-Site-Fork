@@ -40,17 +40,17 @@
 [Round "2"]
 [White "Hikaru Nakamura"]
 [Black "Shakhriyar Mamedyarov"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "10000002"]
 [BlackElo "10000012"]
 [Board "3"]
 [WhiteUSCF "2780"]
 [BlackUSCF "2685"]
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "e89f0cdc-23cc-452c-9539-7ece0cc7f062"]
 [BlackUUID "6439ca2f-e639-4a5a-9c80-9d67304b2b79"]
 
-*
+1-0
 
 [Event "STL Tournament"]
 [Site "Local Chess Tournament"]
