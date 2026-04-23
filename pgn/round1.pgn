@@ -94,14 +94,14 @@
 [Round "1"]
 [White "Magnus Carlsen"]
 [Black "Wesley So"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "10000001"]
 [BlackElo "10000007"]
 [Board "6"]
 [WhiteUSCF "2830"]
 [BlackUSCF "2725"]
-[Termination "not-started"]
+[Termination "forfeit"]
 [WhiteUUID "b1de9120-14e0-465b-bbe7-8b72d219f86d"]
 [BlackUUID "d0e9e1fc-b285-4e37-8129-e0b526eb0f6e"]
 
-*
+0-1
