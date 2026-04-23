@@ -24,7 +24,7 @@
 [Round "3"]
 [White "Fabiano Caruana"]
 [Black "Shakhriyar Mamedyarov"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "10000003"]
 [BlackElo "10000012"]
 
@@ -32,11 +32,11 @@
 [WhiteUSCF "2760"]
 [BlackUSCF "2685"]
 
-[Termination "not-started"]
+[Termination "draw"]
 [WhiteUUID "c23644c2-469c-457f-82a3-1e1cae667117"]
 [BlackUUID "e696920e-c2c8-42fb-9c60-4cf9951b87f8"]
 
-*
+1/2-1/2
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
