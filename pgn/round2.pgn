@@ -94,14 +94,14 @@
 [Round "2"]
 [White "Ian Nepomniachtchi"]
 [Black "Fabiano Caruana"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "10000004"]
 [BlackElo "10000003"]
 [Board "6"]
 [WhiteUSCF "2750"]
 [BlackUSCF "2760"]
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "d4f28c48-c8ae-49c1-9040-1506c5fc7b56"]
 [BlackUUID "28c0532a-4789-4de8-945d-8617d633fc68"]
 
-*
+1-0
