@@ -76,17 +76,17 @@
 [Round "1"]
 [White "Levon Aronian"]
 [Black "Hikaru Nakamura"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "10000008"]
 [BlackElo "10000002"]
 [Board "5"]
 [WhiteUSCF "2710"]
 [BlackUSCF "2780"]
-[Termination "not-started"]
+[Termination "draw"]
 [WhiteUUID "59eddee9-adbe-46ef-b8ad-2302617fd67d"]
 [BlackUUID "e89f0cdc-23cc-452c-9539-7ece0cc7f062"]
 
-*
+1/2-1/2
 
 [Event "STL Tournament"]
 [Site "Local Chess Tournament"]
