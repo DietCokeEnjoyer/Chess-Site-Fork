@@ -64,7 +64,7 @@
 [Round "2"]
 [White "Alireza Firouzja"]
 [Black "Magnus Carlsen"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "10000009"]
 [BlackElo "10000001"]
 
@@ -72,11 +72,11 @@
 [WhiteUSCF "2705"]
 [BlackUSCF "2830"]
 
-[Termination "not-started"]
+[Termination "forfeit"]
 [WhiteUUID "b91e763c-7867-4b47-9cdc-cd95c06e1a2f"]
 [BlackUUID "7eba2013-1946-4389-86a4-0daae4c66827"]
 
-*
+1-0
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
