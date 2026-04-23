@@ -1,3 +1,12 @@
 {
-  "rounds": []
+  "rounds": [
+    {
+      "filename": "round1.pgn",
+      "label": "Round 1"
+    },
+    {
+      "filename": "round2.pgn",
+      "label": "Round 2"
+    }
+  ]
 }
