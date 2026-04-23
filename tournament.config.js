@@ -12,7 +12,7 @@ export default {
   // ── Tournament name ─────────────────────────────────────────────────────
   // Shown in the browser tab and site header.
   // Set to null to use the Event name from the PGN files instead.
-  name: 'Sample Tournament',
+  name: null,
 
   // ── Color theme ─────────────────────────────────────────────────────────
   // Override any or all values. Omitted keys fall back to the defaults.
