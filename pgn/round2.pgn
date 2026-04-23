@@ -104,7 +104,7 @@
 [Round "2"]
 [White "Hikaru Nakamura"]
 [Black "Ding Liren"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "10000002"]
 [BlackElo "10000005"]
 
@@ -112,8 +112,8 @@
 [WhiteUSCF "2780"]
 [BlackUSCF "2745"]
 
-[Termination "not-started"]
+[Termination "draw"]
 [WhiteUUID "82bd8f3f-3db0-4d78-9428-46a2713e47be"]
 [BlackUUID "603611c7-328f-4aaa-9f5d-f64f0c63774b"]
 
-*
+1/2-1/2
