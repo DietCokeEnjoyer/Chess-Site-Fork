@@ -44,7 +44,7 @@
 [Round "1"]
 [White "Maxime Vachier-Lagrave"]
 [Black "Ian Nepomniachtchi"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "10000010"]
 [BlackElo "10000004"]
 
@@ -52,11 +52,11 @@
 [WhiteUSCF "2700"]
 [BlackUSCF "2750"]
 
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "b108188c-c4e6-47e0-9841-08dff735dc9a"]
 [BlackUUID "44108548-e204-4ab8-96c8-871c6e0e8e76"]
 
-*
+1-0
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
