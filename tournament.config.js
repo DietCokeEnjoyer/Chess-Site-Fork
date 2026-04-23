@@ -38,7 +38,7 @@ export default {
   // ── Data branch URL ──────────────────────────────────────────────────────
   // Raw GitHub URL of the branch where PGN files are stored.
   // Update this if you fork the repo into a different org or repo name.
-  dataUrl: 'https://raw.githubusercontent.com/DietCokeEnjoyer/STLChessClub-fork/data',
+  dataUrl: 'https://raw.githubusercontent.com/DietCokeEnjoyer/Chess-Site-Fork/data',
 
   // ── Sponsors ─────────────────────────────────────────────────────────────
   // List of sponsor logos shown in the footer.
