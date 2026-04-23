@@ -4,17 +4,17 @@
 [Round "1"]
 [White "Shakhriyar Mamedyarov"]
 [Black "Anish Giri"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "10000012"]
 [BlackElo "10000006"]
 [Board "1"]
 [WhiteUSCF "2685"]
 [BlackUSCF "2730"]
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "2079ad5b-2698-4710-8eb2-a2989231b0e5"]
 [BlackUUID "093787f6-3251-446a-8076-0b4bbc2a607a"]
 
-*
+1-0
 
 [Event "STL Tournament"]
 [Site "Local Chess Tournament"]
