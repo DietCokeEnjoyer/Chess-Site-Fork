@@ -40,17 +40,17 @@
 [Round "1"]
 [White "Maxime Vachier-Lagrave"]
 [Black "Ian Nepomniachtchi"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "10000010"]
 [BlackElo "10000004"]
 [Board "3"]
 [WhiteUSCF "2700"]
 [BlackUSCF "2750"]
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "ce9b35d2-ef88-4a22-a4c1-4ff068ca499b"]
 [BlackUUID "d4f28c48-c8ae-49c1-9040-1506c5fc7b56"]
 
-*
+1-0
 
 [Event "STL Tournament"]
 [Site "Local Chess Tournament"]
