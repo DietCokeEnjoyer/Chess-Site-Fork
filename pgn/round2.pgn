@@ -84,7 +84,7 @@
 [Round "2"]
 [White "Anish Giri"]
 [Black "Ian Nepomniachtchi"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "10000006"]
 [BlackElo "10000004"]
 
@@ -92,11 +92,11 @@
 [WhiteUSCF "2730"]
 [BlackUSCF "2750"]
 
-[Termination "not-started"]
+[Termination "bye"]
 [WhiteUUID "fa248c28-2bbd-48c4-a76c-da7748c9d9b0"]
 [BlackUUID "44108548-e204-4ab8-96c8-871c6e0e8e76"]
 
-*
+1-0
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
