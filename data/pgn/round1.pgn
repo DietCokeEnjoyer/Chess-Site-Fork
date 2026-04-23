@@ -24,7 +24,7 @@
 [Round "1"]
 [White "Ding Liren"]
 [Black "Teimour Radjabov"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "10000005"]
 [BlackElo "10000011"]
 
@@ -32,11 +32,11 @@
 [WhiteUSCF "2745"]
 [BlackUSCF "2690"]
 
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "603611c7-328f-4aaa-9f5d-f64f0c63774b"]
 [BlackUUID "6994558a-b3a9-4363-bfc5-f2058a71cfcd"]
 
-*
+0-1
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
