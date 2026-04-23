@@ -64,7 +64,7 @@
 [Round "1"]
 [White "Fabiano Caruana"]
 [Black "Alireza Firouzja"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "10000003"]
 [BlackElo "10000009"]
 
@@ -72,11 +72,11 @@
 [WhiteUSCF "2760"]
 [BlackUSCF "2705"]
 
-[Termination "not-started"]
+[Termination "draw"]
 [WhiteUUID "c23644c2-469c-457f-82a3-1e1cae667117"]
 [BlackUUID "b91e763c-7867-4b47-9cdc-cd95c06e1a2f"]
 
-*
+1/2-1/2
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
