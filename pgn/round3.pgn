@@ -64,7 +64,7 @@
 [Round "3"]
 [White "Alireza Firouzja"]
 [Black "Wesley So"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "10000009"]
 [BlackElo "10000007"]
 
@@ -72,11 +72,11 @@
 [WhiteUSCF "2705"]
 [BlackUSCF "2725"]
 
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "b91e763c-7867-4b47-9cdc-cd95c06e1a2f"]
 [BlackUUID "3c76ec2e-ef62-428a-a3d1-3077148a433e"]
 
-*
+1-0
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
