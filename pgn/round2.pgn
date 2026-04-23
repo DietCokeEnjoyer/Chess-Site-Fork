@@ -76,17 +76,17 @@
 [Round "2"]
 [White "Magnus Carlsen"]
 [Black "Ding Liren"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "10000001"]
 [BlackElo "10000005"]
 [Board "5"]
 [WhiteUSCF "2830"]
 [BlackUSCF "2745"]
-[Termination "not-started"]
+[Termination "draw"]
 [WhiteUUID "b1de9120-14e0-465b-bbe7-8b72d219f86d"]
 [BlackUUID "9baf2427-bc37-4ec3-9852-6c26e23e6502"]
 
-*
+1/2-1/2
 
 [Event "STL Tournament"]
 [Site "Local Chess Tournament"]
