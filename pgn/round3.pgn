@@ -4,7 +4,7 @@
 [Round "3"]
 [White "Levon Aronian"]
 [Black "Maxime Vachier-Lagrave"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "10000008"]
 [BlackElo "10000010"]
 
@@ -12,11 +12,11 @@
 [WhiteUSCF "2710"]
 [BlackUSCF "2700"]
 
-[Termination "not-started"]
+[Termination "draw"]
 [WhiteUUID "a5504fe0-7d5b-416f-b0d2-58826a6108a1"]
 [BlackUUID "b108188c-c4e6-47e0-9841-08dff735dc9a"]
 
-*
+1/2-1/2
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
