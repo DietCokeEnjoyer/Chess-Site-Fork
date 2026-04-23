@@ -58,17 +58,17 @@
 [Round "2"]
 [White "Anish Giri"]
 [Black "Levon Aronian"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "10000006"]
 [BlackElo "10000008"]
 [Board "4"]
 [WhiteUSCF "2730"]
 [BlackUSCF "2710"]
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "044db60e-1916-406c-af37-a06c423eefb7"]
 [BlackUUID "59eddee9-adbe-46ef-b8ad-2302617fd67d"]
 
-*
+0-1
 
 [Event "STL Tournament"]
 [Site "Local Chess Tournament"]
