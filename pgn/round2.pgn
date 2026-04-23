@@ -24,7 +24,7 @@
 [Round "2"]
 [White "Teimour Radjabov"]
 [Black "Levon Aronian"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "10000011"]
 [BlackElo "10000008"]
 
@@ -32,11 +32,11 @@
 [WhiteUSCF "2690"]
 [BlackUSCF "2710"]
 
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "6994558a-b3a9-4363-bfc5-f2058a71cfcd"]
 [BlackUUID "a5504fe0-7d5b-416f-b0d2-58826a6108a1"]
 
-*
+0-1
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
