@@ -44,7 +44,7 @@
 [Round "2"]
 [White "Wesley So"]
 [Black "Fabiano Caruana"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "10000007"]
 [BlackElo "10000003"]
 
@@ -52,11 +52,11 @@
 [WhiteUSCF "2725"]
 [BlackUSCF "2760"]
 
-[Termination "not-started"]
+[Termination "draw"]
 [WhiteUUID "3c76ec2e-ef62-428a-a3d1-3077148a433e"]
 [BlackUUID "c23644c2-469c-457f-82a3-1e1cae667117"]
 
-*
+1/2-1/2
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
