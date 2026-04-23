@@ -44,7 +44,7 @@
 [Round "3"]
 [White "Ian Nepomniachtchi"]
 [Black "Teimour Radjabov"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "10000004"]
 [BlackElo "10000011"]
 
@@ -52,11 +52,11 @@
 [WhiteUSCF "2750"]
 [BlackUSCF "2690"]
 
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "44108548-e204-4ab8-96c8-871c6e0e8e76"]
 [BlackUUID "6994558a-b3a9-4363-bfc5-f2058a71cfcd"]
 
-*
+0-1
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
