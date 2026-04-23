@@ -4,7 +4,7 @@
 [Round "2"]
 [White "Maxime Vachier-Lagrave"]
 [Black "Shakhriyar Mamedyarov"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "10000010"]
 [BlackElo "10000012"]
 
@@ -12,11 +12,11 @@
 [WhiteUSCF "2700"]
 [BlackUSCF "2685"]
 
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "b108188c-c4e6-47e0-9841-08dff735dc9a"]
 [BlackUUID "e696920e-c2c8-42fb-9c60-4cf9951b87f8"]
 
-*
+1-0
 
 [Event "Demo Tournament"]
 [Site "Local Chess Tournament"]
