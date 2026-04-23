@@ -4,17 +4,17 @@
 [Round "2"]
 [White "Teimour Radjabov"]
 [Black "Wesley So"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "10000011"]
 [BlackElo "10000007"]
 [Board "1"]
 [WhiteUSCF "2690"]
 [BlackUSCF "2725"]
-[Termination "in-progress"]
+[Termination "normal"]
 [WhiteUUID "83755156-c9f8-45b4-b2b3-1181fcdc9512"]
 [BlackUUID "d0e9e1fc-b285-4e37-8129-e0b526eb0f6e"]
 
-*
+0-1
 
 [Event "STL Tournament"]
 [Site "Local Chess Tournament"]
