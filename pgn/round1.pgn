@@ -58,17 +58,17 @@
 [Round "1"]
 [White "Fabiano Caruana"]
 [Black "Alireza Firouzja"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "10000003"]
 [BlackElo "10000009"]
 [Board "4"]
 [WhiteUSCF "2760"]
 [BlackUSCF "2705"]
-[Termination "not-started"]
+[Termination "normal"]
 [WhiteUUID "28c0532a-4789-4de8-945d-8617d633fc68"]
 [BlackUUID "20a02eb2-99f9-4ead-9e16-c3fb1ea25818"]
 
-*
+0-1
 
 [Event "STL Tournament"]
 [Site "Local Chess Tournament"]
